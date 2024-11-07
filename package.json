@@ -1,14 +1,19 @@
 {
-  "name": "bharathi4real-extenstion-kit",
-  "displayName": "Bharathi4real's Extenstion Kit",
+  "name": "bharathi4real-extension-kit",
+  "displayName": "Bharathi4real's Extension Kit",
   "description": "The Extensions I personally use for web development.",
   "version": "0.0.1",
+  "publisher": "bharathi4real",
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bharathi4real/extension-kit.git"
+  },
   "extensionPack": [
     "adpyke.codesnap",
     "be5invis.vscode-custom-css",
@@ -31,6 +36,8 @@
     "steoates.autoimport",
     "tabnine.tabnine-vscode",
     "tgosystems.togglebracketguides",
-    "wware.snippet-creator"
+    "wware.snippet-creator",
+    "Jaakko.black",
+    "DavidAnson.vscode-markdownlint"
   ]
 }
