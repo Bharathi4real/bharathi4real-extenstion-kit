@@ -1,0 +1,36 @@
+{
+  "name": "bharathi4real-extenstion-kit",
+  "displayName": "Bharathi4real's Extenstion Kit",
+  "description": "The Extensions I personally use for web development.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "adpyke.codesnap",
+    "be5invis.vscode-custom-css",
+    "bracketpaircolordlw.bracket-pair-color-dlw",
+    "bradlc.vscode-tailwindcss",
+    "cardinal90.multi-cursor-case-preserve",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "jpoissonnier.vscode-styled-components",
+    "ms-vsliveshare.vsliveshare",
+    "naumovs.color-highlight",
+    "pkief.material-icon-theme",
+    "pulkitgangwar.nextjs-snippets",
+    "rangav.vscode-thunder-client",
+    "stylelint.vscode-stylelint",
+    "steoates.autoimport",
+    "tabnine.tabnine-vscode",
+    "tgosystems.togglebracketguides",
+    "wware.snippet-creator"
+  ]
+}
