@@ -2,7 +2,7 @@
   "name": "bharathi4real-extension-kit",
   "displayName": "Bharathi4real's Extension Kit",
   "description": "The Extensions I personally use for web development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "bharathi4real",
   "engines": {
     "vscode": "^1.95.0"
@@ -26,7 +26,6 @@
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
     "formulahendry.auto-rename-tag",
-    "jpoissonnier.vscode-styled-components",
     "ms-vsliveshare.vsliveshare",
     "naumovs.color-highlight",
     "pkief.material-icon-theme",
@@ -37,7 +36,10 @@
     "tabnine.tabnine-vscode",
     "tgosystems.togglebracketguides",
     "wware.snippet-creator",
-    "Jaakko.black",
-    "DavidAnson.vscode-markdownlint"
+    "jaakko.black",
+    "davidanson.vscode-markdownlint",
+    "nextnav.nextnav",
+    "shardulm94.trailing-spaces",
+    "usernamehw.errorlens"
   ]
 }
