@@ -51,3 +51,11 @@
 ### Improvements
 
 - Expanded the list of extensions to address more specific use cases, including Next.js navigation and improved error handling.
+
+---
+
+## [0.0.3] - 2024-11-10
+
+### Added
+
+- **Extension Pack Update**: Added Logo.

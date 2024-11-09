@@ -1,8 +1,9 @@
 {
   "name": "bharathi4real-extension-kit",
   "displayName": "Bharathi4real's Extension Kit",
+  "icon": "logo.webp",
   "description": "The Extensions I personally use for web development.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "bharathi4real",
   "engines": {
     "vscode": "^1.95.0"
