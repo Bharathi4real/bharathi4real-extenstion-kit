@@ -2,6 +2,31 @@
 
 ---
 
+## [0.0.3] - 2024-11-10
+
+### Added
+
+- **Extension Pack Update**: Added Logo.
+
+---
+
+## [0.0.2] - 2024-11-08
+
+### Added
+
+- **Extension Pack Update**:
+  - Enhanced the extension pack to further support error visualization, trailing space management, and navigation improvements.
+  - **Newly Added Extensions**:
+    - `nextnav.nextnav`: Navigate Next.js files easily with this helpful utility.
+    - `shardulm94.trailing-spaces`: Highlights and removes trailing spaces in your files.
+    - `usernamehw.errorlens`: Displays inline errors and warnings, improving debugging visibility.
+
+### Improvements
+
+- Expanded the list of extensions to address more specific use cases, including Next.js navigation and improved error handling.
+
+---
+
 ## [0.0.1] - 2024-11-07
 
 ### Added
@@ -34,28 +59,3 @@
     - `wware.snippet-creator`: Simplify the creation of code snippets.
     - `jaakko.black`: A clean and visually appealing dark theme for better focus.
     - `davidanson.vscode-markdownlint`: Lint and format markdown files for better readability.
-
----
-
-## [0.0.2] - 2024-11-08
-
-### Added
-
-- **Extension Pack Update**:
-  - Enhanced the extension pack to further support error visualization, trailing space management, and navigation improvements.
-  - **Newly Added Extensions**:
-    - `nextnav.nextnav`: Navigate Next.js files easily with this helpful utility.
-    - `shardulm94.trailing-spaces`: Highlights and removes trailing spaces in your files.
-    - `usernamehw.errorlens`: Displays inline errors and warnings, improving debugging visibility.
-
-### Improvements
-
-- Expanded the list of extensions to address more specific use cases, including Next.js navigation and improved error handling.
-
----
-
-## [0.0.3] - 2024-11-10
-
-### Added
-
-- **Extension Pack Update**: Added Logo.
